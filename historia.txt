@@ -1,3 +1,3 @@
 aprendiendo git con fredy
 
-estamos modificando este archivo y aprendiendo
+estamos trabajando con git checkout
