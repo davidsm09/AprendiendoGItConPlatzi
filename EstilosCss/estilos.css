@@ -21,3 +21,14 @@ body
     font-size: 30px;
 }
     
+.cabecera{
+    font-size: 30px;
+    color: #FF0065;
+    background-color:#FFDC97;
+    border: solid #000;
+    border-radius: 10%;
+    padding: 5PX;
+    box-shadow:10px 9px 28px 4px rgba(0,0,0,0.75);
+    -webkit-box-shadow:10px 9px 28px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow:10px 9px 28px 4px rgba(0,0,0,0.75)
+}
