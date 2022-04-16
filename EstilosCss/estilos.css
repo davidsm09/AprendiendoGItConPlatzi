@@ -1,12 +1,23 @@
 body
 {
-    background-color: aqua;
+    background-color:#6FFFF0;
 }
 
-.contenido
-{
-    color: aquamarine;
+
+.container{
+    background: linear-gradient(to bottom, #E58FEA, #AAF9F9);
+    width: auto;
+    padding: 30px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: bisque;
+    border: solid #FF0065;
 }
+
+.contenido h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contenido p{
+    font-size: 30px;
+}
+    
