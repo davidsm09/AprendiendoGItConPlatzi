@@ -1,4 +1,4 @@
-# AprendiendoGItConPlatzi
+
 # AprendiendoGItConPlatzi💎
 *Estamos  Aprendiendo Git y GitHub con platzi de manera satisfactoria, ademas aprendemos otros temas de interes muy importantes.*
 
