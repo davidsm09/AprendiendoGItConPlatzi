@@ -8,6 +8,6 @@
 - Claves ssh
 - tags
 
-Recomiendo mucho este curso es increible, si quieres ver este curso  [da click aqui](http://https://platzi.com/clases/1557-git-github "da click aqui")
+Recomiendo mucho este curso es increible, si quieres ver este curso  [da click aqui](https://platzi.com/ "da click aqui")
 
 **Muchas gracias por ver mi Repo**👊
