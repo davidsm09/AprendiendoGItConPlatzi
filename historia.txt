@@ -3,5 +3,5 @@ aprendiendo git con fredy
 estamos trabajando con git checkout
 
 aprendiendo acerca de REBASE
-
+main 2
 Main 1
