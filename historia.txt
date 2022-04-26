@@ -8,3 +8,7 @@ experimento 1
 
 Main 1
 main 2
+
+ya somos muy buenos en git
+
+gracias team platzi
